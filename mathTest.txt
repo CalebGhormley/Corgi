@@ -1,0 +1,10 @@
+main()
+
+def main()
+	"Enter a value for a: " a = input() nl()
+	"Enter a value for b: " b = input() nl()
+	print(a) " + " print(b) " = " print(a+b) nl()
+	print(a) " - " print(b) " = " print(a-b) nl()
+	print(a) " * " print(b) " = " print(a*b) nl()
+	print(a) " / " print(b) " = " print(a/b) nl()
+end
